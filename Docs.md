@@ -166,3 +166,36 @@ This index represents the equilibrium point.
 >O()
 
 # CAT-2
+
+## [Activity Solution Problem](src/activity.java)
+16-02-2024
+
+### Description:
+Pick index pos as activity name
+
+*Input:*
+>String act [] = {"A<sub>1</sub>", "A<sub>2</sub>", "A<sub>3</sub>"}
+> 
+>Int st [] = {1, 4, 9} //start time
+> 
+>Int en [] = {9, 5, 10} //end time
+
+*Output:*
+
+A<sub>1</sub> can work 1-9 and A<sub>3</sub> works 9-10. 
+List out max number of activities one can perform
+
+*Challenge:* Sort the ending indices and then apply activity solution.
+Here use bubble sort.
+
+## [Kruskal's Algo](src/Kruskal.java)
+17-02-2024
+
+Graph to minimum spanning tree
+Graph: n vertices
+MST: n vertices, n-1 edges
+
+## [Double Linked List](src/DLL.java)
+01-03-2024
+
+3 objects

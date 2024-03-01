@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57b095a3-9d3f-4565-af70-23325ce9aa9d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/Docs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/josephus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manuvering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxEquilibrium.java" afterDir="false" />
+    <list default="true" id="57b095a3-9d3f-4565-af70-23325ce9aa9d" name="Changes" comment="16feb">
+      <change afterPath="$PROJECT_DIR$/src/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kruskal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/activity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs.md" beforeDir="false" afterPath="$PROJECT_DIR$/Docs.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,27 +41,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.combinations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.josephus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.leaders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.majorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.manuvering.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxEquilibrium.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DLL.executor": "Run",
+    "Application.Kruskal.executor": "Run",
+    "Application.MajorityElement.executor": "Run",
+    "Application.activity.executor": "Run",
+    "Application.combinations.executor": "Run",
+    "Application.josephus.executor": "Run",
+    "Application.leaders.executor": "Run",
+    "Application.majorityElement.executor": "Run",
+    "Application.manuvering.executor": "Run",
+    "Application.maxEquilibrium.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1707666216554</updated>
       <workItem from="1707666218152" duration="9691000" />
-      <workItem from="1707885271960" duration="2630000" />
+      <workItem from="1707885271960" duration="3480000" />
+      <workItem from="1708061950461" duration="2956000" />
+      <workItem from="1708137576626" duration="2540000" />
+      <workItem from="1709271918281" duration="567000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -84,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707666734879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CAT1">
+      <option name="closed" value="true" />
+      <created>1707888158350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707888158350</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="CAT1" />
+    <option name="LAST_COMMIT_MESSAGE" value="CAT1" />
   </component>
 </project>
